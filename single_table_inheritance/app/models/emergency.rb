@@ -1,0 +1,2 @@
+class Emergency < Contact
+end
